@@ -3,6 +3,8 @@
 ## Project Overview
 
 Jarurat Care is a healthcare services management application built with React and TypeScript. It allows users to manage and display a list of healthcare services, providing functionalities to add, update, and delete services. The application also includes a pie chart for service overview, making it easy to visualize service distribution.
+![image](https://github.com/user-attachments/assets/e1742221-1d42-4cc8-aff4-84384841fe8f)
+
 
 ## Features
 
