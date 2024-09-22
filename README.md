@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -48,3 +49,7 @@ export default tseslint.config({
   },
 })
 ```
+=======
+# JaruratCareNGO
+Healthcare Services Management app allows users to add, update, and delete services. It features a dynamic service list and a pie chart overview, all built with React and TypeScript.
+>>>>>>> dc71538c6a2e6401b3dbe4d79cf3b871c97d7734
