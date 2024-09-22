@@ -27,8 +27,10 @@ Jarurat Care is a healthcare services management application built with React an
 1. Clone the repository:
    ```bash
    git clone https://github.com/BHAGTANIDEEPAK/JaruratCareNGO.git
-2. cd JaruratCareNGO
-3. Install dependencies: npm i 
+2. ```bash
+   cd JaruratCareNGO
+3. ```bash
+   npm i
 
 ## Running the Project
 1. npm run dev
