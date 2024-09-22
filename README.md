@@ -33,6 +33,7 @@ Jarurat Care is a healthcare services management application built with React an
    npm i
 
 ## Running the Project
-1. npm run dev
+1. ``` bash
+  npm run dev
 2. Open your browser and navigate to http://localhost:5173
 
